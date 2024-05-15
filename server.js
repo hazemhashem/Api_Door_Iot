@@ -18,7 +18,7 @@ const messIsOpened = {
     name: 'IoT',
     address: 'esp576678@gmail.com'
   },
-  to: ["hazemhashem100@gmail.com", "midoibrahim432@gmail.com"], // Add valid recipient email addresses here
+  to: ["hazemhashem100@gmail.com", "midoibrahim432@gmail.com","ms2942@fayoum.edu.eg"], // Add valid recipient email addresses here
   subject: "Door Status From esp ✔",
   html: "<b>Door is Opened</b>",
 }
@@ -28,7 +28,7 @@ const messIsClosed = {
       name: 'IoT',
       address: 'esp576678@gmail.com'
     },
-    to: ["hazemhashem100@gmail.com", "midoibrahim432@gmail.com"], // Add valid recipient email addresses here
+    to: ["hazemhashem100@gmail.com", "midoibrahim432@gmail.com","ms2942@fayoum.edu.eg"], // Add valid recipient email addresses here
     subject: "Door Status From esp ✔",
     html: "<b>Door is closed</b>",
   }
